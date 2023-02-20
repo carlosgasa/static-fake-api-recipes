@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "921de541-183a-42b6-9b84-2b49e0b6525d",
+      "name": "de arroz Brillante Calidad de Oro",
+      "image": "https://www.brillante.es/wp-content/uploads/2017/04/brillante-calidad-oro-1kg.jpg",
+      "amount":"400 gramos"
+    },
+    {
+      "id_ingredient": "f304734b-c7ba-45be-8e7d-51da642e3875",
+      "name": "de gambas",
+      "image": "https://i.blogs.es/ce9b9a/gambas-a-la-plancha-perfectas-pakus-directo-al-paladar-futurobloguero/1366_2000.jpg",
+      "amount":"150 gramos"
+    },
+    {
+      "id_ingredient": "67625a07-5947-4388-b7a6-e509027ab634",
+      "name": "de guisantes",
+      "image": "https://www.cuerpomente.com/medio/2020/10/21/guisantes_11799879_1200x1200.jpg",
+      "amount":"75 gramos"
+    },
+    {
+      "id_ingredient": "083a9d43-85e9-4ca2-8b4e-761a0217e4c1",
+      "name": "chile verde fresco o serrano",
+      "image": "https://cdn.shopify.com/s/files/1/0266/6368/2128/products/Chiles_800x.png",
+      "amount":"1"
+    },
+    {
+      "id_ingredient": "1b184069-d077-436e-8b27-9915657f3e44",
+      "name": "de sal",
+      "image": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2019/09/17/5e99839c080be.jpeg",
+      "amount":"2 pizcas"
+    }
+  ]
+}
