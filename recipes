@@ -10,6 +10,17 @@
       "latitude": 23.3146059,
       "longitude": -111.635371,
       "tags": "Carne, Verduras, Tortillas, Salsa"
+    },
+    {
+      "id_recipe": "86cb2630-b166-11ed-afa1-0242ac120002",
+      "name": "Arroz Chaufa",
+      "description": "El arroz chaufa es una receta extremadamente popular en Perú y que se inspira en la cocina china. De hecho, chaufa sería una expresión parecida a la palabra china para referirse al arroz frito. Como todo plato muy popular, existen infinitas versiones de la misma. Hoy os proponemos una que se elabora con pollo previamente asado.",
+      "image": "https://c8i5i9x9.stackpathcdn.com/download/bancorecursos/recetas/receta-arroz-chaufa-peruano.jpg",
+      "image_banner": "https://www.paulinacocina.net/wp-content/uploads/2021/12/arroz-chaufa-peruano-receta.jpg",
+      "instructions": "En una olla mediana, cocine el arroz con el caldo de pollo según las instrucciones del arroz. \n En una sartén grande, caliente el aceite de sésamo a fuego medio. Agregue la cebolla, el ajo, el pimiento verde y el pimiento rojo y cocinar hasta que estén suaves, aproximadamente 5 minutos. Agregar el pollo, la salsa de soja, el glutamato (si lo usa) y la pimienta al gusto y cocinar durante 5 minutos más. \n 3. AAgregar el arroz cocido a la sartén con la mezcla de carne y verduras y mezcle bien mientras se saltea. Agregue los huevos revueltos y mezcle de nuevo. Cocinar durante 5 minutos más, o hasta que el arroz esté bien caliente. \n 4. Servir caliente, espolvoreado con cebolleta.",
+      "latitude": -9.2047404,
+      "longitude": -79.5138371,
+      "tags": "Arroz, Verduras"
     }
   ]
 }
