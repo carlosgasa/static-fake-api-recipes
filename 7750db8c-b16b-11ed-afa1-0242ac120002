@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "f15fdb76-b16b-11ed-afa1-0242ac120002",
+      "name": "de lomo de cerdo",
+      "image": "https://ingredienta.com/wp-content/uploads/2016/06/lomo-cerdo-ing.jpg",
+      "amount":"500 gramos"
+    },
+    {
+      "id_ingredient": "f53baa72-b16b-11ed-afa1-0242ac120002",
+      "name": "de jamón cocido",
+      "image": "https://comecarne.org/wp-content/uploads/2022/05/arti%CC%81culo-come-carne-JAMO%CC%81N-XL-820x394.png",
+      "amount":"4 lonchas"
+    },
+    {
+      "id_ingredient": "f98ee864-b16b-11ed-afa1-0242ac120002",
+      "name": "de queso cheddar",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2020/05/19991.jpg",
+      "amount":"4 lonchas"
+    },
+    {
+      "id_ingredient": "ff024caa-b16b-11ed-afa1-0242ac120002",
+      "name": "de mostaza",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2022/08/64022.jpg",
+      "amount":"4 cucharaditas"
+    },
+    {
+      "id_ingredient": "02f7b85e-b16c-11ed-afa1-0242ac120002",
+      "name": "de sal",
+      "image": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2019/09/17/5e99839c080be.jpeg",
+      "amount":"2 pizcas"
+    }
+  ]
+}
