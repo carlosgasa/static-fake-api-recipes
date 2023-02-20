@@ -54,6 +54,17 @@
       "latitude": 21.5053795,
       "longitude": -81.8064637,
       "tags": "Pepinillo, Galleta, Jamon"
+    },
+    {
+      "id_recipe": "82a4d87d-e8a8-4532-89b9-2fa371262356",
+      "name": "Pechuga de pollo rellena",
+      "description": "Inspirándonos en las famosas patatas Hasselback de Suecia, os traemos una irresistible idea para preparar la pechuga de pollo rellena ¡al horno! Con una combinación de sabores insuperable donde potenciamos el resultado final con una salsa casera de albahaca y almendras. ¿Os lo vais a perder? ",
+      "image": "https://www.cocinatis.com/archivos/202207/CTIS0948-receta-pechuga-de-pollo-hasselback-con-queso-y-calabacin_desktop_horizontal_full_width.jpg",
+      "image_banner": "https://www.cocinatis.com/archivos/202207/CTIS0948-receta-pechuga-de-pollo-hasselback-con-queso-y-calabacin-paso-1_desktop_step.jpg",
+      "instructions": "1. Corta el calabacín y el queso en rodajas o medias lunas. \n 2. Realiza unos cortes profundos en las pechugas de pollo, a lo ancho. \n 3. Rellena cada corte con el calabacín y el queso. Bien intercalándolas o añadiendo ambos en cada corte. Coloca las pechugas en una fuente apta para horno. Salpimienta y reserva.  \n 4. Tritura en la picadora la albahaca, las almendras, una pizca de sal, un chorrito de aceite y el zumo de lima.",
+      "latitude": 60.8232585,
+      "longitude": -0.7156549,
+      "tags": "Pollo, Horneado, Verdura"
     }
   ]
 }
