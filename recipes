@@ -1,0 +1,15 @@
+{
+  "recipes": [
+    {
+      "id": "df13b6ce-b141-11ed-afa1-0242ac120002",
+      "name": "Tacos caseros",
+      "description": "Al igual que las fajitas y los burritos, los tacos son una tortilla rellena con diferentes combinaciones de carnes y verduras, a veces también legumbres. Pero entonces, ¿cuál es la diferencia? Las fajitas y los burritos se suelen preparar con tortillas de trigo, mientras que el taco mexicano se prepara con tortilla de maíz, algo más pequeña que las anteriores.",
+      "image": "https://www.pequerecetas.com/wp-content/uploads/2019/04/tacos.jpg",
+      "image_banner": "https://www.pequerecetas.com/wp-content/uploads/2011/05/taco-al-horno.jpg",
+      "instructions": "1. Picar la cebolla, el chile fresco, el cilantro y el ajo por separado y reservar. \n 2. Calentar 2 o 3 cucharadas de aceite en una sartén y sofreír con el orégano, el comino y el chile seco, unos dos minutos hasta que empiece a soltar aroma. \n 3. Añadir el ajo y el chile y sofreír 2 o 3 minutos más. \n 4. Añadir la carne, salar y remover, y dejar cocinar hasta que la carne esté hecha, unos 10 minutos.\n 5. Apagar el fuego, añadir el cilantro picado y el zumo de lima y remover.",
+      "latitude": 23.3146059,
+      "longitude": -111.635371,
+      "tags": "Carne, Verduras, Tortillas, Salsa"
+    }
+  ]
+}
