@@ -1,0 +1,34 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "2f193c95-67a5-4bec-9864-1a8bb4bd8d5c",
+      "name": "de pollo enteras",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2020/04/pechuga-de-pavo-san-rafael.jpg",
+      "amount":"2 pechugas"
+    },
+    {
+      "id_ingredient": "91878f6c-abc4-4f5d-a9d6-53cad05bf450",
+      "name": "calabacín pequeño",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2020/04/56951.jpg",
+      "amount":"1"
+    },
+    {
+      "id_ingredient": "432fee86-b16d-11ed-afa1-0242ac120002",
+      "name": "de queso de cabra",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2020/06/queso-brie-americano.jpg",
+      "amount":"1 rulo"
+    },
+    {
+      "id_ingredient": "27be0785-fd81-4f72-9fd3-6a0501f06270",
+      "name": "de mostaza",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2022/08/64022.jpg",
+      "amount":"4 cucharaditas"
+    },
+    {
+      "id_ingredient": "49a5f2ba-b16d-11ed-afa1-0242ac120002",
+      "name": "de sal",
+      "image": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2019/09/17/5e99839c080be.jpeg",
+      "amount":"2 pizcas"
+    }
+  ]
+}
