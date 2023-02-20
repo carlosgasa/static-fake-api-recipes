@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "fc5cec8e-b167-11ed-afa1-0242ac120002",
+      "name": "de arroz de grano largo",
+      "image": "https://i.blogs.es/a75550/nuevo_arroz_blanco/1366_2000.jpg",
+      "amount":"2 tazas"
+    },
+    {
+      "id_ingredient": "0044ee96-b168-11ed-afa1-0242ac120002",
+      "name": "de caldo de pollo",
+      "image": "https://cdn2.cocinadelirante.com/sites/default/files/images/2020/08/consome-de-pollo-en-polvo-casero.jpg",
+      "amount":"3 tazas"
+    },
+    {
+      "id_ingredient": "035b6830-b168-11ed-afa1-0242ac120002",
+      "name": "chile verde fresco o serrano",
+      "image": "https://cdn.shopify.com/s/files/1/0266/6368/2128/products/Chiles_800x.png",
+      "amount":"1"
+    },
+    {
+      "id_ingredient": "0979eb10-b168-11ed-afa1-0242ac120002",
+      "name": "de sal",
+      "image": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2019/09/17/5e99839c080be.jpeg",
+      "amount":"2 pizcas"
+    }
+  ]
+}
