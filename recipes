@@ -17,7 +17,7 @@
       "description": "El arroz chaufa es una receta extremadamente popular en Perú y que se inspira en la cocina china. De hecho, chaufa sería una expresión parecida a la palabra china para referirse al arroz frito. Como todo plato muy popular, existen infinitas versiones de la misma. Hoy os proponemos una que se elabora con pollo previamente asado.",
       "image": "https://c8i5i9x9.stackpathcdn.com/download/bancorecursos/recetas/receta-arroz-chaufa-peruano.jpg",
       "image_banner": "https://www.paulinacocina.net/wp-content/uploads/2021/12/arroz-chaufa-peruano-receta.jpg",
-      "instructions": "1. En una olla mediana, cocine el arroz con el caldo de pollo según las instrucciones del arroz. \n 2. En una sartén grande, caliente el aceite de sésamo a fuego medio. Agregue la cebolla, el ajo, el pimiento verde y el pimiento rojo y cocinar hasta que estén suaves, aproximadamente 5 minutos. Agregar el pollo, la salsa de soja, el glutamato (si lo usa) y la pimienta al gusto y cocinar durante 5 minutos más. \n 3. AAgregar el arroz cocido a la sartén con la mezcla de carne y verduras y mezcle bien mientras se saltea. Agregue los huevos revueltos y mezcle de nuevo. Cocinar durante 5 minutos más, o hasta que el arroz esté bien caliente. \n 4. Servir caliente, espolvoreado con cebolleta.",
+      "instructions": "En una olla mediana, cocine el arroz con el caldo de pollo según las instrucciones del arroz. \n En una sartén grande, caliente el aceite de sésamo a fuego medio. Agregue la cebolla, el ajo, el pimiento verde y el pimiento rojo y cocinar hasta que estén suaves, aproximadamente 5 minutos. Agregar el pollo, la salsa de soja, el glutamato (si lo usa) y la pimienta al gusto y cocinar durante 5 minutos más. \n 3. AAgregar el arroz cocido a la sartén con la mezcla de carne y verduras y mezcle bien mientras se saltea. Agregue los huevos revueltos y mezcle de nuevo. Cocinar durante 5 minutos más, o hasta que el arroz esté bien caliente. \n 4. Servir caliente, espolvoreado con cebolleta.",
       "latitude": -9.2047404,
       "longitude": -79.5138371,
       "tags": "Arroz, Verduras"
@@ -32,6 +32,17 @@
       "latitude": 33.1929971,
       "longitude": 128.1572768,
       "tags": "Arroz, Alga, Asiatico"
+    },
+    {
+      "id_recipe": "b2ea95b3-aabc-41ba-aa05-37143aedda03",
+      "name": "Arroz tres delicias",
+      "description": "La receta del tradicional arroz tres delicias con verduras, gambas, tortilla francesa y jamón de york.",
+      "image": "https://www.cocinatis.com/archivos/202207/CTIS0005-arroz-tres-delicias-xl_desktop_horizontal_full_width.jpg",
+      "image_banner": "https://www.cocinatis.com/archivos/202207/CTIS0005-arroz-tres-delicias-paso-1_desktop_step.jpg",
+      "instructions": "1. Pon a cocer en una cazuela con agua el arroz y la zanahoria picada durante 10 minutos. Remueve y escurre. \n 2. Para hacer la tortilla bate los huevos en un bol, añade una pizca de sal, pimienta y perejil. Cocina la tortilla en una sartén, enrollala y troceala con ayuda de un cuchillo. \n 3. Saltea las gambas, el jamón de York y los guisantes.  \n 4. Añade el arroz cocido. Remueve y mezcla bien. ",
+      "latitude": 35.4628435,
+      "longitude": 95.1455871,
+      "tags": "Carne, Verdura, Camaron"
     }
   ]
 }
