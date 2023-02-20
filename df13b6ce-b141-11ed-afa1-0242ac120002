@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "a96c5392-38ea-4336-8b75-aa8f05220fbc",
+      "name": "de carne picada de ternera",
+      "image": "https://fitnessburger.es/503-medium_default/carne-picada-de-ternera-bandeja-de-12-kilo.jpg",
+      "amount":"500g"
+    },
+    {
+      "id_ingredient": "8a046446-f73a-4dca-90c8-66e2bde8207b",
+      "name": "cebolla",
+      "image": "https://www.fructusterrum.com/wp-content/uploads/2020/07/cebolla-roja-1.jpg",
+      "amount":"1"
+    },
+    {
+      "id_ingredient": "70396ffd-7975-40a4-8f4b-c3c8dae92f39",
+      "name": "chile verde fresco o serrano",
+      "image": "https://cdn.shopify.com/s/files/1/0266/6368/2128/products/Chiles_800x.png",
+      "amount":"1"
+    },
+    {
+      "id_ingredient": "70396ffd-7975-40a4-8f4b-c3c8dae92f39",
+      "name": "de sal",
+      "image": "https://www.lavanguardia.com/files/article_main_microformat/uploads/2019/09/17/5e99839c080be.jpeg",
+      "amount":"2 pizcas"
+    }
+  ]
+}
