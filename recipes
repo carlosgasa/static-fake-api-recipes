@@ -43,6 +43,17 @@
       "latitude": 35.4628435,
       "longitude": 95.1455871,
       "tags": "Carne, Verdura, Camaron"
+    },
+    {
+      "id_recipe": "7750db8c-b16b-11ed-afa1-0242ac120002",
+      "name": "Sándwich cubano",
+      "description": "Te presentamos un sándwich típico de la cocina cubana a base de lomo de cerdo asado, queso, pepinillos y mostaza.",
+      "image": "https://www.cocinatis.com/archivos/202207/CTIS0243-receta-sandwich-cubano_desktop_horizontal_full_width.jpg",
+      "image_banner": "https://www.cocinatis.com/archivos/202207/CTIS0243-receta-sandwich-cubano-ingredientes_desktop_step.jpg",
+      "instructions": "1. Mezcla la sal gruesa, el eneldo y las hierbas provenzales. Coloca una capa de sal y hierbas en una fuente apta para horno, pon encima el lomo de cerdo y cubre con otra capa de hierbas y sal gorda. \n 2. Hornea el lomo con el horno precalentado a 190ºC durante 30 minutos. Después, deja enfriar, retira la sal y córtalo en lonchas finas. \n 3. Para montar el sándwich cubano, unta una rebanada de pan con mostaza, pon encima 2 lonchas de lomo asado, una loncha de jamón cocido, otra loncha de queso y unas rodajas finas de pepinillo. Unta otra rebanada de pan con mostaza y tapa el sándwich.  \n 4. Añade el arroz cocido. Remueve y mezcla bien. ",
+      "latitude": 21.5053795,
+      "longitude": -81.8064637,
+      "tags": "Pepinillo, Galleta, Jamon"
     }
   ]
 }
