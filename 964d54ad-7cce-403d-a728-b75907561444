@@ -1,0 +1,28 @@
+{
+  "ingredients": [
+    {
+      "id_ingredient": "4a15c974-f0f8-4ee9-ba42-53a24e48eb31",
+      "name": "de pescados blancos fresco",
+      "image": "https://www.cocinayvino.com/wp-content/uploads/2021/03/www.cocinayvino.com-pescado-fresco-e1617131022727-696x392.jpg",
+      "amount":"800 gramos"
+    },
+    {
+      "id_ingredient": "761cbeb5-1c6c-468e-a67f-ed726319de14",
+      "name": "limas",
+      "image": "https://www.abastodeli.com/wp-content/uploads/2022/04/11362.jpg",
+      "amount":"3"
+    },
+    {
+      "id_ingredient": "d93ad7ac-34c5-41b6-b585-474e360178b1",
+      "name": "cebolla morada",
+      "image": "https://content21.sabervivirtv.com/medio/2022/03/08/cebolla-guia-alimentos_ddaa9afc_1280x720.jpg",
+      "amount":"1/2"
+    },
+    {
+      "id_ingredient": "ee131254-24db-4435-80fb-d0f33e91d587",
+      "name": "30 gramos",
+      "image": "https://actualfruveg.com/wp-content/uploads/2019/03/boniato-carne-roja.jpg",
+      "amount":"de boniatos"
+    }
+  ]
+}
