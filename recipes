@@ -65,6 +65,17 @@
       "latitude": 60.8232585,
       "longitude": -0.7156549,
       "tags": "Pollo, Horneado, Verdura"
+    },
+    {
+      "id_recipe": "964d54ad-7cce-403d-a728-b75907561444",
+      "name": "Ceviche peruano",
+      "description": "Os enseñamos cómo hacer ceviche, una popular receta de pescado blanco marinado en aliños cítricos típico de la cocina peruana.",
+      "image": "https://www.cocinatis.com/archivos/202207/CTIS0422-receta-ceviche-peruano_desktop_horizontal_full_width.jpg",
+      "image_banner": "https://www.cocinatis.com/archivos/202207/CTIS0422-receta-ceviche-peruano-paso5_desktop_step.jpg",
+      "instructions": "1. Limpia el pescado blanco, en este caso una lubina. Para ello, retira la cabeza y saca los lomos limpios de espinas. Quita la piel y trocea los lomos. Mantén el pescado frío en un bol con hielos o en el frigorífico mientras vas preparando el resto de los ingredientes. \n 2. Pon una cazuela con agua al fuego y cuando hierva, añade una pizca de sal y el boniato. Deja cocer unos 25-30 minutos, hasta que este bien cocido. Saca el boniato de la cazuela y deja templar. \n 3. Para hacer el aliño cítrico parte las limas por la mitad y exprímelas sobre el bol del pescado frío. Añade un poco de sal y mezcla suavemente.  \n 4. Pela y corta la cebolla morada en láminas muy finas. Corta el ají amarillo en rodajas finas y asegúrate de retirar todas las semillas, ya que son muy picantes. Trocea las ramitas de cilantro. Agrega pimienta negra molida, el ají amarillo, el cilantro y la cebolla morada. Mezcla con cuidado y deja reposar un par de minutos antes de emplatar. \n 5. Mezcla y deja reposar un par de minutos antes de emplatar.",
+      "latitude": -9.1091343,
+      "longitude": -84.0500289,
+      "tags": "Mariscos, Fresco, Verdura"
     }
   ]
 }
