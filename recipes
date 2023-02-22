@@ -76,6 +76,17 @@
       "latitude": -9.1091343,
       "longitude": -84.0500289,
       "tags": "Mariscos, Fresco, Verdura"
+    },
+    {
+      "id_recipe": "8d7c5d85-cc64-4735-93be-da15fb45668e",
+      "name": "Orejas de Carnaval",
+      "description": "Las tradicionales orejas de Carnaval, también llamadas orellas u hojuelas, son uno de esos grandes clásicos que nunca fallan. De resultado tan crujiente, resultan casi adictivas y lo mejor es que ¡son muy fáciles y rápidas de hacer!",
+      "image": "https://www.cocinatis.com/archivos/202207/CTIS0725-receta-de-orejas-de-carnaval_desktop_horizontal_full_width.jpg",
+      "image_banner": "https://www.cocinatis.com/archivos/202207/CTIS0725-receta-de-orejas-de-carnaval-paso6_desktop_step.jpg",
+      "instructions": "1. Añade en un bol el huevo y bate con las varillas. Agrega el aceite, remueve e incorpora el vino blanco. Mezcla bien. \n 2. Tamiza la harina por raciones y ve mezclando hasta obtener una masa sólida y moldeable. Pasa la masa sobre una superficie enharinada y amasa con las manos hasta obtener una textura homogénea. \n 3. Parte la masa en dos para mayor comodidad y alisa con el rodillo hasta obtener unos pocos milímetros de grosor.  \n 4. Pon una sartén al fuego con abundante aceite de girasol y cuando este caliente, añade las porciones de masa. Dora por ambos lados y retira sobre papel absorbente para quitar el exceso de grasa.",
+      "latitude": -16.2255423,
+      "longitude": -68.0427279,
+      "tags": "Postre, Harina, Azucar"
     }
   ]
 }
